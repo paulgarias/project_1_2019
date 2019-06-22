@@ -1,4 +1,4 @@
-#First README (formatted)
+# First README (formatted)  
 
-Hello, Paul!
+Hello, Paul!  
 How are you doing? 
